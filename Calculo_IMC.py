@@ -8,4 +8,4 @@ def imc(peso, altura):
   meu_imc = peso / altura_quadrada
   print(f'O imc é {meu_imc}')
   return meu_imc
-meu_imc = imc(75, 1.63)
+meu_imc = imc(75, 1.63) # Aqui são inseridas as informações que se deseja calcular. Bom uso!
