@@ -1,3 +1,3 @@
 # JornadaByLearn
-Calcular IMC da pessoa.
-Esse programa calcula o IMC da pessoa, após definidas as funções.
+Calculadora de IMC.
+Esse programa calcula o IMC do indivíduo, após definidas as medidas (peso e altura).
